@@ -1,1 +1,1 @@
-# Master-s-Thesis---Mateusz-Sabatowski
+# Master's-Thesis---Mateusz-Sabatowski
