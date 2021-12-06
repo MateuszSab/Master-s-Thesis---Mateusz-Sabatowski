@@ -5,8 +5,8 @@ Common in psychology and philosophy distinction between moral action and action 
 
 #Information on notebooks and data: 
 
-This repository contains two notebooks and a dataset consisting of over 2000 examples annotated with four categories. One notebook consists of a fine-tuned HerBERT model for sequence classification with obtained results. Results achieved in this model are of main focus in this study. Second notebook contains the HerBERT model without fine-tuning. Results achieved in this model constitute baseline  scores of classification.
+This repository contains two notebooks and a dataset consisting of over 2000 examples annotated with four categories. One notebook consists of a fine-tuned HerBERT model for sequence classification with obtained results. Results achieved in this model are of main focus in this study. Second notebook contains the  CountVectorizer and Multinomial Naive Bayes model. Results achieved in this model constitute baseline  scores of classification.
 
 To use both notebooks, one only needs to upload a prepared dataset to google colab memory and run all code cells. The results are presented in the last cell of each notebook. 
 
-tIn the notebook with fine-tuned models, new training, validation and test sets are created with random examples every time this code is run. Although this causes slightly different results of classification, differences are not very significat. 
+In the notebook with fine-tuned models, new training, validation and test sets are created with random examples every time this code is run. Although this causes slightly different results of classification, differences are not significat. 
